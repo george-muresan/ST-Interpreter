@@ -1,2 +1,6 @@
 # ST-Interpreter
-Smalltalk is a object-oriented programming language. All values are considered objects &amp; this specific interpreter has three types of values (int, sym, &amp; object instance). 
+Smalltalk is an object-oriented programming language. All the input values are considered objects. This specific interpreter has three types of values: int, sym (string), and object instance. 
+
+Example input:
+  Function: (define double (x) (+ x x) )
+  Expression: (double 10)
