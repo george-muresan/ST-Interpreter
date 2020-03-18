@@ -3,4 +3,5 @@ Smalltalk is an object-oriented programming language. All the input values are c
 
 Example input:
   -Function: (define double (x) (+ x x) )
+  
   -Expression: (double 10)
